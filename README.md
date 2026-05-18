@@ -1,5 +1,11 @@
-# BI_Project
+"""
+Preserve original README text verbatim inside a fenced code block for formatting.
+"""
+## BI_Project
 
+The original pipeline output is preserved below (verbatim):
+
+```text
 =========================================
       WALMART DATASET ANALYSIS PROJECT     
 =========================================
@@ -143,3 +149,5 @@ Model Evaluation Metrics:
 Root Mean Squared Error (RMSE): 70.96
 R-squared (R2): 0.2574
 -> Feature importance plot saved as 'Images/feature_importance.png'
+
+```
